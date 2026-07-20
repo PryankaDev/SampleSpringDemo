@@ -25,19 +25,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/PryankaDev/SampleSpringDemo.git",
-    "accountId": "b91cdaac-5718-46e9-be1f-2472faf4a1b0"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PryankaDev/SampleSpringDemo.git&quot;,
+    &quot;accountId&quot;: &quot;b91cdaac-5718-46e9-be1f-2472faf4a1b0&quot;
   }
-}]]></component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -51,61 +51,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000043820228846" />
-      <entry key="MS500" value="1.0946162217975517" />
-      <entry key="S2" value="2.053258853677975" />
-      <entry key="S5" value="3.5555916185847742" />
-      <entry key="S10" value="4.798336618747516" />
-      <entry key="S30" value="6.116702632791721" />
-      <entry key="S60" value="6.53606234736928" />
-      <entry key="M2" value="6.7634636766942835" />
-      <entry key="M5" value="7.065727703629105" />
-      <entry key="M10" value="8.251209783952643" />
-      <entry key="M15" value="10.451472872797435" />
-      <entry key="M30" value="21.192662979551542" />
-      <entry key="H1" value="46.53807135924906" />
-      <entry key="H2" value="87.53586212416451" />
-      <entry key="H4" value="131.78019330937374" />
-      <entry key="D1" value="195.64370199877933" />
-      <entry key="W1" value="210.404037534854" />
+      <entry key="MS100" value="1.1293083509084567" />
+      <entry key="MS500" value="2.719835531497987" />
+      <entry key="S2" value="5.132152003527816" />
+      <entry key="S5" value="6.140469237251238" />
+      <entry key="S10" value="6.575271064618241" />
+      <entry key="S30" value="7.929573835583319" />
+      <entry key="S60" value="9.674578544809803" />
+      <entry key="M2" value="11.35013223723873" />
+      <entry key="M5" value="12.927896280314217" />
+      <entry key="M10" value="14.559856213435355" />
+      <entry key="M15" value="16.86079550626423" />
+      <entry key="M30" value="27.587955998306388" />
+      <entry key="H1" value="52.87093181964768" />
+      <entry key="H2" value="93.90675861557784" />
+      <entry key="H4" value="138.3059683745121" />
+      <entry key="D1" value="202.52621179870326" />
+      <entry key="W1" value="217.3859828776155" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.0558909094074522E-172" />
-      <entry key="S5" value="2.2865522992197302E-69" />
-      <entry key="S10" value="6.706599906761835E-35" />
-      <entry key="S30" value="1.0332334538953575E-11" />
-      <entry key="S60" value="1.2494653212992398E-5" />
-      <entry key="M2" value="0.017332283267516714" />
-      <entry key="M5" value="1.4368924402366603" />
-      <entry key="M10" value="6.586972465987045" />
-      <entry key="M15" value="11.908745223381928" />
-      <entry key="M30" value="28.052028289768685" />
-      <entry key="H1" value="55.746483115278366" />
-      <entry key="H2" value="90.28555058886057" />
-      <entry key="H4" value="121.96463283487985" />
-      <entry key="D1" value="163.2954145757366" />
-      <entry key="W1" value="172.4098144880224" />
+      <entry key="S2" value="5.736210341654763E-184" />
+      <entry key="S5" value="7.13154367315235E-74" />
+      <entry key="S10" value="3.7454465347594825E-37" />
+      <entry key="S30" value="1.8331536184581006E-12" />
+      <entry key="S60" value="5.2628913880130195E-6" />
+      <entry key="M2" value="0.011248791797095009" />
+      <entry key="M5" value="1.2087160807468358" />
+      <entry key="M10" value="6.041376030013722" />
+      <entry key="M15" value="11.241717930353806" />
+      <entry key="M30" value="27.255089231598628" />
+      <entry key="H1" value="54.948917881612644" />
+      <entry key="H2" value="89.63736591240968" />
+      <entry key="H4" value="121.52603547546843" />
+      <entry key="D1" value="163.1973964214622" />
+      <entry key="W1" value="172.39502652947036" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9726592096085238" />
-      <entry key="MS500" value="1.0885634748885609" />
-      <entry key="S2" value="2.050467755654494" />
-      <entry key="S5" value="3.5536506667934322" />
-      <entry key="S10" value="4.797002344863555" />
-      <entry key="S30" value="6.116124237896785" />
-      <entry key="S60" value="6.5357637705391" />
-      <entry key="M2" value="6.780481928872235" />
-      <entry key="M5" value="8.497320936346677" />
-      <entry key="M10" value="14.825349590236243" />
-      <entry key="M15" value="22.3431220672338" />
-      <entry key="M30" value="49.219169511301885" />
-      <entry key="H1" value="102.25469411895114" />
-      <entry key="H2" value="177.7949638045115" />
-      <entry key="H4" value="253.72610825352413" />
-      <entry key="D1" value="358.93477535253896" />
-      <entry key="W1" value="382.8131929783948" />
+      <entry key="MS100" value="1.090089650593585" />
+      <entry key="MS500" value="2.6896977463762126" />
+      <entry key="S2" value="5.116747829312143" />
+      <entry key="S5" value="6.133124001007296" />
+      <entry key="S10" value="6.571358352851729" />
+      <entry key="S30" value="7.928113924819507" />
+      <entry key="S60" value="9.673766936970418" />
+      <entry key="M2" value="11.360832479229815" />
+      <entry key="M5" value="14.132016324136158" />
+      <entry key="M10" value="20.589393266887512" />
+      <entry key="M15" value="28.086328805642324" />
+      <entry key="M30" value="54.81822543095233" />
+      <entry key="H1" value="107.7904050075421" />
+      <entry key="H2" value="183.51785972771088" />
+      <entry key="H4" value="259.813350382725" />
+      <entry key="D1" value="365.7192691226604" />
+      <entry key="W1" value="389.78035035036737" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -117,37 +117,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "Spring Boot.CloudVendorAPI.executor": "Run",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/priyanka/piyu_interview_mockup/SampleSpringDemo",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.CloudVendorAPI.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/priyanka/piyu_interview_mockup/SampleSpringDemo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="CloudVendorAPI" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="springboot" />
