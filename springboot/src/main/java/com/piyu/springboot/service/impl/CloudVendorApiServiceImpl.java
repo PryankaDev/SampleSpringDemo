@@ -1,5 +1,6 @@
 package com.piyu.springboot.service.impl;
 
+import com.piyu.springboot.exception.CloudVendorApiNotFoundException;
 import com.piyu.springboot.model.CloudVendorEntity;
 import com.piyu.springboot.model.CloudVendorModel;
 import com.piyu.springboot.repository.CloudVendorRepository;
@@ -27,6 +28,8 @@ public class CloudVendorApiServiceImpl implements CloudVendorApiService {
 
     @Override
     public CloudVendorEntity getCloudVendorAPI(String vendorId) {
+        if(cloudVendorRepository.findById(vendorId).isEmpty())
+            throw new CloudVendorApiNotFoundException("Requested Vendor Id does not exists");
         CloudVendorEntity cloudVendorEntity = cloudVendorRepository.findById(vendorId).get();
         return cloudVendorEntity;
     }
@@ -45,6 +48,8 @@ public class CloudVendorApiServiceImpl implements CloudVendorApiService {
 
     @Override
     public String deleteVendorApi(String vendorId) {
+        if(cloudVendorRepository.findById(vendorId).isEmpty())
+            throw new CloudVendorApiNotFoundException("Requested Vendor Id does not exists");
         cloudVendorRepository.deleteById(vendorId);
         return "Deleted Successfully";
     }

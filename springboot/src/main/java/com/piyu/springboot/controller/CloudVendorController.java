@@ -1,5 +1,6 @@
 package com.piyu.springboot.controller;
 
+import com.piyu.springboot.exception.CloudVendorApiNotFoundException;
 import com.piyu.springboot.model.CloudVendorEntity;
 import com.piyu.springboot.model.CloudVendorModel;
 import com.piyu.springboot.service.CloudVendorApiService;
