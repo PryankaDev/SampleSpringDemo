@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52d7bec5-852d-45d2-945f-15e05cb402e4" name="Changes" comment="Spring project creation" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="20" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PryankaDev/SampleSpringDemo.git",
+    "accountId": "b91cdaac-5718-46e9-be1f-2472faf4a1b0"
+  }
+}]]></component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000043820228846" />
+      <entry key="MS500" value="1.0946162217975517" />
+      <entry key="S2" value="2.053258853677975" />
+      <entry key="S5" value="3.5555916185847742" />
+      <entry key="S10" value="4.798336618747516" />
+      <entry key="S30" value="6.116702632791721" />
+      <entry key="S60" value="6.53606234736928" />
+      <entry key="M2" value="6.7634636766942835" />
+      <entry key="M5" value="7.065727703629105" />
+      <entry key="M10" value="8.251209783952643" />
+      <entry key="M15" value="10.451472872797435" />
+      <entry key="M30" value="21.192662979551542" />
+      <entry key="H1" value="46.53807135924906" />
+      <entry key="H2" value="87.53586212416451" />
+      <entry key="H4" value="131.78019330937374" />
+      <entry key="D1" value="195.64370199877933" />
+      <entry key="W1" value="210.404037534854" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.0558909094074522E-172" />
+      <entry key="S5" value="2.2865522992197302E-69" />
+      <entry key="S10" value="6.706599906761835E-35" />
+      <entry key="S30" value="1.0332334538953575E-11" />
+      <entry key="S60" value="1.2494653212992398E-5" />
+      <entry key="M2" value="0.017332283267516714" />
+      <entry key="M5" value="1.4368924402366603" />
+      <entry key="M10" value="6.586972465987045" />
+      <entry key="M15" value="11.908745223381928" />
+      <entry key="M30" value="28.052028289768685" />
+      <entry key="H1" value="55.746483115278366" />
+      <entry key="H2" value="90.28555058886057" />
+      <entry key="H4" value="121.96463283487985" />
+      <entry key="D1" value="163.2954145757366" />
+      <entry key="W1" value="172.4098144880224" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9726592096085238" />
+      <entry key="MS500" value="1.0885634748885609" />
+      <entry key="S2" value="2.050467755654494" />
+      <entry key="S5" value="3.5536506667934322" />
+      <entry key="S10" value="4.797002344863555" />
+      <entry key="S30" value="6.116124237896785" />
+      <entry key="S60" value="6.5357637705391" />
+      <entry key="M2" value="6.780481928872235" />
+      <entry key="M5" value="8.497320936346677" />
+      <entry key="M10" value="14.825349590236243" />
+      <entry key="M15" value="22.3431220672338" />
+      <entry key="M30" value="49.219169511301885" />
+      <entry key="H1" value="102.25469411895114" />
+      <entry key="H2" value="177.7949638045115" />
+      <entry key="H4" value="253.72610825352413" />
+      <entry key="D1" value="358.93477535253896" />
+      <entry key="W1" value="382.8131929783948" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3GkzUQsFom7gIkxVelHczA0x0Cy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.CloudVendorAPI.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/priyanka/piyu_interview_mockup/SampleSpringDemo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CloudVendorAPI" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.piyu.springboot.CloudVendorAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52d7bec5-852d-45d2-945f-15e05cb402e4" name="Changes" comment="" />
+      <created>1784530369708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784530369708</updated>
+      <workItem from="1784530370722" duration="1648000" />
+      <workItem from="1784552845000" duration="10650000" />
+    </task>
+    <task id="LOCAL-00001" summary="Spring project creation">
+      <option name="closed" value="true" />
+      <created>1784568381440</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1784568381440</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="754d4f97-a96d-4ceb-aada-faa39562037e" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="754d4f97-a96d-4ceb-aada-faa39562037e">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Spring project creation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring project creation" />
+  </component>
+</project>
